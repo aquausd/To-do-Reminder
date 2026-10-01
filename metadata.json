@@ -1,0 +1,6 @@
+{
+  "name": "Todo Reminder",
+  "description": "Minimalist, monochrome personal productivity and task management app inspired by modern iOS design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
